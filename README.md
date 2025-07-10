@@ -1,5 +1,3 @@
-# 💫 About Me:
-AI Engineer || C++ Dev || Brand Ambassador @Developer.X
 
 💱 C++ Currency Converter
 
@@ -15,6 +13,16 @@ This is a simple Currency Converter written in C++ that converts different curre
 - Simple and user-friendly CLI interface
 - Clean logic with switch-case implementation
 - Perfect for learning basic C++ input/output and conditions
+- 
+
+Group Members : 
+Humaira 
+Kamran 
+Mesum
+Helen
+Masuma
+Urooj
+Masuma Ibrahim
 
 🧠 Concepts Used:
 - cin / cout
@@ -63,7 +71,9 @@ README.txt               # This file
 
 🙌 Author:
 Mesum Mukhtar
-GitHub: https://github.com/codewithMeesum
+
+GitHub: https://github.com/codewithMeesum 
+
 Portfolio: https://codewithMeesum.github.io
 
 ⭐ Star this repo if you found it helpful!
