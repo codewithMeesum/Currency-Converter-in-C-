@@ -17,7 +17,7 @@ This is a simple Currency Converter written in C++ that converts different curre
 
 Group Members : 
 Humaira 
-Kamran 
+Kamran  
 Mesum
 Helen
 Masuma
